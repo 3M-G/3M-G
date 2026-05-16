@@ -1,67 +1,120 @@
-# 👩🏻‍💻 3M-G
+<div align="center">
 
-**`Estudante de Programação`**
+# 👨‍💻 Guilherme Costa Ferreira | 3M
 
-Me chamo Guilherme Costa Ferreira, tenho 17 anos e sou de São Paulo. Estou cursando o Ensino Medio, 2 Ano. Atualmente, estou fazendo o curso de HTML5 e CSS3, do Curso em Video, terminei o curso de Logica da Programação, do Curso em Video e terminei o curso de Git e GitHub, do Curso em video, logo após iniciarei o curso de JavaScript. Sou apaixonada por tecnologia e busco evolução constante.
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+3M!;Estudante+e+Desenvolvedor+em+evolução;Apaixonado+por+Tecnologia+e+Programação;Bem-vindo+ao+meu+GitHub!"/>
 
-<p align="left">
-    <a href="https://github.com/3M-G?tab=followers">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"
-        />
-    </a>
-    <a href="https://www.instagram.com/guilherme.edr/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C"
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Lógica de Programação" 
-    title="Lógica de Programação"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3-fill.svg" 
-/>
+## 🚀 Sobre Mim
+
+🎓 17 anos
+📚 2º ano do Ensino Médio
+💻 Estudando programação e desenvolvimento
+🔥 Construindo projetos e evoluindo todos os dias
+
+</div>
+
+---
+
+# 🧠 Minha Jornada
+
+Olá! Me chamo **Guilherme Costa Ferreira**, conhecido como **3M**.
+
+Sou apaixonado por tecnologia e estou construindo minha trajetória como desenvolvedor através de estudos, prática e criação de projetos.
+
+### ✅ Cursos concluídos
+
+✔️ Git e GitHub — Curso em Vídeo
+✔️ Lógica de Programação — Curso em Vídeo
+
+Atualmente sigo aprimorando meus conhecimentos e colocando tudo em prática nos meus projetos.
+
+---
+
+# 📂 Repositórios
+
+## 📘 Jornada de Aprendizagem
+
+Repositório focado nos meus estudos de lógica de programação, exercícios e evolução como programador.
+
+## 🛠️ Projetos Práticos
+
+Projetos desenvolvidos para aplicar meus conhecimentos na prática e evoluir minhas habilidades.
+
+---
+
+# 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode" />
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3M-G&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=3M-G&theme=tokyonight&row=1&no-bg=true&margin-w=15" />
+
+</div>
+
+---
+
+# 🌎 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.instagram.com/guilherme.edr/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/guilherme-costa-ferreira-3m/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+🚀 Evoluir como desenvolvedor
+📚 Aprender novas tecnologias
+💡 Criar projetos cada vez melhores
+🔥 Transformar conhecimento em experiência real
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
+</div>
+
+<div align="center">
+
+✨ *“A prática leva à evolução.”* ✨
+
+</div>
