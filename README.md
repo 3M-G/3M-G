@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020916,50:0d2744,100:1a5fb4&height=180&section=header&text=3M&fontSize=70&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&stroke=1a4a8a&strokeWidth=2"/>
 
@@ -32,8 +32,8 @@
 ║  IDADE     ──►  17 anos                                    ║
 ║  ESCOLA    ──►  2º ano — Ensino Médio                      ║
 ║  FOCO      ──►  Desenvolvimento Web & Lógica               ║
-║  STATUS    ──►  [████████░░] Evoluindo constantemente      ║
-║  MODO      ──►  Aprendiz ──► Desenvolvedor                 ║
+║  STATUS    ──►  Evoluindo constantemente                   ║
+║  MODO      ──►  Aprendiz → Desenvolvedor                   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -46,41 +46,20 @@
 </div>
 
 ```bash
-[✔] git commit -m "Git e GitHub — Curso em Vídeo"           # concluído
-[✔] git commit -m "Lógica de Programação — Curso em Vídeo"  # concluído
-[~] git commit -m "Em progresso: mais conhecimento..."      # carregando...
+[✔] Git e GitHub — Curso em Vídeo
+[✔] Lógica de Programação — Curso em Vídeo
+[~] Aprendendo novas tecnologias...
 ```
 
 ---
 
 <div align="center">
 
-### `> estatisticas_github --todas`
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=3M-G&theme=tokyonight"/>
-
-</div>
----
-
-<div align="center">
-
-### `> estatisticas_github --todas`
+### `> tecnologias.sh`
 
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=020916&title_color=58a6ff&icon_color=1a5fb4&text_color=c9d1d9"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=020916&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=3M-G&theme=tokyonight&locale=pt_BR&hide_border=true&background=020916&stroke=1a4a8a&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff"/>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode"/>
 
 </div>
 
@@ -88,23 +67,11 @@
 
 <div align="center">
 
-### `> conquistas --exibir`
+### `> github_status`
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=3M-G&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5&margin-w=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `> grafico_contribuicoes`
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=3M-G&bg_color=020916&color=58a6ff&line=1a5fb4&point=58a6ff&area=true&area_color=0d2744&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=3M-G&theme=tokyonight&no-frame=true&row=1&column=4"/>
 
 </div>
 
@@ -140,13 +107,11 @@
 
 ```javascript
 const objetivos = [
-  "[01] Evoluir como desenvolvedor",
-  "[02] Aprender novas tecnologias",
-  "[03] Criar projetos cada vez melhores",
-  "[04] Transformar conhecimento em experiência real",
+  "Evoluir como desenvolvedor",
+  "Aprender novas tecnologias",
+  "Criar projetos cada vez melhores",
+  "Transformar conhecimento em experiência real",
 ];
-
-objetivos.forEach(obj => console.log(`✦ ${obj}`));
 ```
 
 ---
