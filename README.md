@@ -14,9 +14,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/FOCO-Desenvolvimento%20Web%20%26%20Lógica-0d2744?style=for-the-badge&logo=target&logoColor=58a6ff&labelColor=020916)
-![](https://img.shields.io/badge/STATUS-Evoluindo%20Constantemente-0d2744?style=for-the-badge&logo=statuspage&logoColor=3fb950&labelColor=020916)
-![](https://img.shields.io/badge/MODO-Aprendiz%20→%20Dev-0d2744?style=for-the-badge&logo=lightning&logoColor=f0883e&labelColor=020916)
+<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20Web%20%26%20Lógica-0d2744?style=for-the-badge&logo=target&logoColor=58a6ff&labelColor=020916"/>
+<img src="https://img.shields.io/badge/STATUS-Evoluindo%20Constantemente-0d2744?style=for-the-badge&logo=statuspage&logoColor=3fb950&labelColor=020916"/>
+<img src="https://img.shields.io/badge/MODO-Aprendiz%20→%20Dev-0d2744?style=for-the-badge&logo=lightning&logoColor=f0883e&labelColor=020916"/>
 
 </div>
 
@@ -24,14 +24,14 @@
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
-║                    PERFIL DO SISTEMA v2.0                    ║
+║                    PERFIL DO SISTEMA v2.0                  ║
 ╠══════════════════════════════════════════════════════════════╣
-║  USUÁRIO   ──►  Guilherme Costa Ferreira (3M)                ║
-║  IDADE     ──►  17 anos                                      ║
-║  ESCOLA    ──►  2º ano — Ensino Médio                        ║
-║  FOCO      ──►  Desenvolvimento Web & Lógica                 ║
-║  STATUS    ──►  [████████░░] Evoluindo constantemente        ║
-║  MODO      ──►  Aprendiz ──► Desenvolvedor                   ║
+║  USUÁRIO   ──►  Guilherme Costa Ferreira (3M)              ║
+║  IDADE     ──►  17 anos                                    ║
+║  ESCOLA    ──►  2º ano — Ensino Médio                      ║
+║  FOCO      ──►  Desenvolvimento Web & Lógica               ║
+║  STATUS    ──►  [████████░░] Evoluindo constantemente      ║
+║  MODO      ──►  Aprendiz ──► Desenvolvedor                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -44,9 +44,9 @@
 </div>
 
 ```bash
-[✔] git commit -m "Git e GitHub — Curso em Vídeo"            # concluído
-[✔] git commit -m "Lógica de Programação — Curso em Vídeo"   # concluído
-[~] git commit -m "Em progresso: mais conhecimento..."        # carregando...
+[✔] git commit -m "Git e GitHub — Curso em Vídeo"           # concluído
+[✔] git commit -m "Lógica de Programação — Curso em Vídeo"  # concluído
+[~] git commit -m "Em progresso: mais conhecimento..."      # carregando...
 ```
 
 ---
@@ -57,12 +57,24 @@
 
 <br>
 
-[![Git](https://img.shields.io/badge/Git-020916?style=for-the-badge&logo=git&logoColor=f05033)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-020916?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/3M-G)
-[![HTML5](https://img.shields.io/badge/HTML5-020916?style=for-the-badge&logo=html5&logoColor=e34f26)](https://developer.mozilla.org/html)
-[![CSS3](https://img.shields.io/badge/CSS3-020916?style=for-the-badge&logo=css3&logoColor=1572b6)](https://developer.mozilla.org/css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-020916?style=for-the-badge&logo=javascript&logoColor=f7df1e)](https://developer.mozilla.org/javascript)
-[![VS Code](https://img.shields.io/badge/VS%20Code-020916?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)](https://code.visualstudio.com)
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://img.shields.io/badge/Git-020916?style=for-the-badge&logo=git&logoColor=f05033"/>
+</a>
+<a href="https://github.com/3M-G" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-020916?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-020916?style=for-the-badge&logo=html5&logoColor=e34f26"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-020916?style=for-the-badge&logo=css3&logoColor=1572b6"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-020916?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-020916?style=for-the-badge&logo=visualstudiocode&logoColor=007acc"/>
+</a>
 
 </div>
 
@@ -75,7 +87,7 @@
 <br>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&icon_color=1a5fb4&text_color=c9d1d9&count_private=true&ring_color=58a6ff"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&text_color=c9d1d9&langs_count=4"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
@@ -119,9 +131,17 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/@guilherme.edr-020916?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=020916)](https://www.instagram.com/guilherme.edr/)
-[![LinkedIn](https://img.shields.io/badge/Guilherme_Costa_(3M)-020916?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=020916)](https://www.linkedin.com/in/)
-[![Discord](https://img.shields.io/badge/Servidor_Pessoal-020916?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=020916)](https://discord.gg/TWn2NueW)
+<a href="https://www.instagram.com/guilherme.edr/" target="_blank">
+  <img src="https://img.shields.io/badge/@guilherme.edr-020916?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=020916"/>
+</a>
+
+<a href="https://github.com/3M-G" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-020916?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020916"/>
+</a>
+
+<a href="https://discord.gg/TWn2NueW" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-020916?style=for-the-badge&logo=discord&logoColor=5865f2&labelColor=020916"/>
+</a>
 
 </div>
 
@@ -148,9 +168,9 @@ objetivos.forEach(obj => console.log(`✦ ${obj}`));
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=3M-G&color=58a6ff&style=flat-square&label=visualizações+do+perfil)
+<img src="https://komarev.com/ghpvc/?username=3M-G&color=58a6ff&style=flat-square&label=visualizações+do+perfil"/>
 
-<br>
+<br><br>
 
 > *`"A prática leva à evolução."`*
 
@@ -159,3 +179,4 @@ objetivos.forEach(obj => console.log(`✦ ${obj}`));
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a5fb4,50:0d2744,100:020916&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
