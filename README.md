@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020916,50:0d2744,100:1a5fb4&height=180&section=header&text=3M&fontSize=70&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&stroke=1a4a8a&strokeWidth=2"/>
 
@@ -87,8 +87,8 @@
   <img src="https://img.shields.io/badge/Instagram-020916?style=for-the-badge&logo=instagram&logoColor=e4405f"/>
 </a>
 
-<a href="https://github.com/3M-G" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-020916?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<a href="www.linkedin.com/in/guilherme-costa-ferreira-3m" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-020916?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 
 <a href="https://discord.gg/TWn2NueW" target="_blank">
