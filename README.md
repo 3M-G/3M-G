@@ -124,7 +124,9 @@ const objetivos = [
 
 <br><br>
 
-> *"A prática leva à evolução."*
+  *"A prática leva à evolução."*
+<br>
+  *"Me Siga!"*
 
 <br>
 
