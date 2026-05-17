@@ -94,7 +94,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@guilherme.edr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.edr/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Guilherme_Costa_(3M)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Guilherme_Costa_(3M)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-costa-ferreira-3m)&nbsp;
 [![Discord](https://img.shields.io/badge/Servidor_Pessoal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TWn2NueW)
 
 </div>
