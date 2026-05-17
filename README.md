@@ -86,8 +86,9 @@
 
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&icon_color=1a5fb4&text_color=c9d1d9&count_private=true&ring_color=58a6ff"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&icon_color=1a5fb4&text_color=c9d1d9&count_private=true&locale=pt-br"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=020916&title_color=58a6ff&text_color=c9d1d9&langs_count=6&locale=pt-br"/>
 
 </div>
 
@@ -95,13 +96,11 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=3M-G&theme=tokyonight&hide_border=true&background=020916&stroke=1a4a8a&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=3M-G&theme=tokyonight&hide_border=true&background=020916&stroke=1a4a8a&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&locale=pt_BR"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### `> conquistas --exibir`
 
