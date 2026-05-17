@@ -87,6 +87,8 @@
   <img src="https://img.shields.io/badge/Instagram-020916?style=for-the-badge&logo=instagram&logoColor=e4405f"/>
 </a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020916?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/guilherme-costa-ferreira-3m)
+
 <a href="www.linkedin.com/in/guilherme-costa-ferreira-3m" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-020916?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
