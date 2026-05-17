@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=▌+Iniciando+sistema...;▌+Carregando+desenvolvedor+Guilherme+Costa+Ferreira...;▌+Status%3A+Aprendendo+e+evoluindo+%7C+Modo%3A+Dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+desenvolvedor+3M...;Status:+Aprendendo+e+evoluindo;Modo:+Dark"/>
 
 </div>
 
