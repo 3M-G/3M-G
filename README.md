@@ -2,7 +2,7 @@
 
 # 👨‍💻 Guilherme Costa Ferreira | 3M
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+3M!;Estudante+e+Desenvolvedor+em+evolução;Apaixonado+por+Tecnologia+e+Programação;Bem-vindo+ao+meu+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=12214e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+3M!;Estudante+e+Desenvolvedor+em+evolução;Apaixonado+por+Tecnologia+e+Programação;Bem-vindo+ao+meu+GitHub!"/>
 
 </div>
 
