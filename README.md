@@ -115,7 +115,7 @@
 
 <div align="center">
 
-### `> grafico_contribuicoes`
+### `> grafico_contribuições`
 
 <br>
 
