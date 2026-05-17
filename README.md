@@ -1,118 +1,119 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:00ff41&height=180&section=header&text=~/3M-G&fontSize=50&fontColor=00ff41&fontAlignY=42&fontAlign=50&desc=Guilherme%20Costa%20Ferreira&descAlignY=65&descSize=16&descFontColor=ffffff&animation=blinking"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0ea5e9&height=200&section=header&text=Guilherme%20Costa%20Ferreira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=3M%20|%20Dev%20em%20evolução&descAlignY=58&descSize=20&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+o+3M!+👋;Estudante+e+Dev+em+Evolução+🚀;Apaixonado+por+Tecnologia+💻;Transformando+código+em+realidade+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=▌+Iniciando+sistema...;▌+Carregando+desenvolvedor...;▌+Status%3A+Aprendendo+e+evoluindo;▌+Modo%3A+Dark+%2F+Foco+total+no+código;▌+./run+guilherme.sh" />
 
 </div>
 
----
+<br/>
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 👨‍💻 Sobre Mim
-
-```yaml
-nome:     Guilherme Costa Ferreira (3M)
-idade:    17 anos
-escola:   2º ano do Ensino Médio
-foco:     Desenvolvimento Web & Programação
-status:   Aprendendo e evoluindo todo dia 🔥
+```
+╔══════════════════════════════════════════════════════════╗
+║                    PERFIL DO SISTEMA                     ║
+╠══════════════════════════════════════════════════════════╣
+║  USER      →  Guilherme Costa Ferreira (3M)              ║
+║  IDADE     →  17 anos                                    ║
+║  ESCOLA    →  2º ano — Ensino Médio                      ║
+║  FOCO      →  Desenvolvimento Web & Lógica               ║
+║  STATUS    →  [████████░░] Evoluindo constantemente      ║
+║  MODO      →  Aprendiz → Desenvolvedor                   ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-### 📚 Cursos Concluídos
-- ✅ Git e GitHub — Curso em Vídeo
-- ✅ Lógica de Programação — Curso em Vídeo
+<br/>
+
+## `> cursos_concluidos.log`
+
+```bash
+[✔] git commit -m "Git e GitHub — Curso em Vídeo"
+[✔] git commit -m "Lógica de Programação — Curso em Vídeo"
+[~] git commit -m "Em progresso: mais conhecimento..."
+```
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## `> stack.sh`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas GitHub
+## `> github_stats --all`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br&border_radius=6&border_color=00ff41&title_color=00ff41&icon_color=00ff41"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&langs_count=7&theme=github_dark&locale=pt-br&border_radius=6&border_color=00ff41&title_color=00ff41"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3M-G&theme=tokyonight&locale=pt_BR&border_radius=10&date_format=j%2Fn%5B%2FY%5D" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3M-G&theme=github-dark-blue&locale=pt_BR&border_radius=6&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff"/>
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## `> trophies --display`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=3M-G&theme=tokyonight&row=1&no-bg=true&margin-w=15&no-frame=true&locale=pt-br" />
+<img src="https://github-profile-trophy.vercel.app/?username=3M-G&theme=matrix&row=1&no-bg=true&margin-w=10&no-frame=true&locale=pt-br"/>
 
 </div>
 
 ---
 
-## 📂 Repositórios em Destaque
-
-<div align="center">
-
-[![Jornada](https://github-readme-stats.vercel.app/api/pin/?username=3M-G&repo=jornada-de-aprendizagem&theme=tokyonight&locale=pt-br&border_radius=10)](https://github.com/3M-G)
-[![Projetos](https://github-readme-stats.vercel.app/api/pin/?username=3M-G&repo=projetos-praticos&theme=tokyonight&locale=pt-br&border_radius=10)](https://github.com/3M-G)
-
-</div>
-
----
-
-## 🐍 Contribuições
+## `> contribution_map --animated`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/3M-G/3M-G/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## 🌎 Redes Sociais
+## `> social --links`
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme.edr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-costa-ferreira-3m/)
+[![Instagram](https://img.shields.io/badge/─%20Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/guilherme.edr/)
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/guilherme-costa-ferreira-3m/)
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+## `> objectives.txt`
 
-<div align="center">
-
-| 🚀 Evoluir como Dev | 📚 Aprender novas tecnologias |
-|:---:|:---:|
-| **💡 Criar projetos melhores** | **🔥 Código → Experiência real** |
-
-</div>
+```
+[01]  Evoluir como desenvolvedor
+[02]  Aprender novas tecnologias
+[03]  Criar projetos cada vez melhores
+[04]  Transformar conhecimento em experiência real
+```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=3M-G&label=Visualizações+do+Perfil&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=3M-G&label=profile+views&color=00ff41&style=flat"/>
 
-> ✨ *"A prática leva à evolução."* ✨
+<br/><br/>
+
+```
+> "A prática leva à evolução."
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer"/>
