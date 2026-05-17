@@ -159,3 +159,4 @@ objetivos.forEach(obj => console.log(`✦ ${obj}`));
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a5fb4,50:0d2744,100:020916&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
