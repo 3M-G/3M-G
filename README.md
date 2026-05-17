@@ -55,36 +55,17 @@
 
 <div align="center">
 
-### `> tecnologias.sh`
+### `> estatisticas_github --todas`
 
-<br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3M-G&show_icons=true&theme=tokyonight"/>
 
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://img.shields.io/badge/Git-020916?style=for-the-badge&logo=git&logoColor=f05033"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3M-G&layout=compact&theme=tokyonight"/>
 
-<a href="https://github.com/3M-G" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-020916?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
+<br><br>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-020916?style=for-the-badge&logo=html5&logoColor=e34f26"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-020916?style=for-the-badge&logo=css3&logoColor=1572b6"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-020916?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-</a>
-
-<a href="https://code.visualstudio.com" target="_blank">
-  <img src="https://img.shields.io/badge/VS%20Code-020916?style=for-the-badge&logo=visualstudiocode&logoColor=007acc"/>
-</a>
+<img width="70%" src="https://streak-stats.demolab.com?user=3M-G&theme=tokyonight"/>
 
 </div>
-
 ---
 
 <div align="center">
