@@ -59,7 +59,9 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,html,css"/>
+<br><br>
+<img src="https://img.shields.io/badge/Lógica%20de%20Programação-020916?style=for-the-badge&logo=thealgorithms&logoColor=58a6ff"/>
 
 </div>
 
